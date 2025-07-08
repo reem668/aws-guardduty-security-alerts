@@ -1,0 +1,20 @@
+{
+  "version": "0",
+  "id": "test-12345",
+  "detail-type": "GuardDuty Finding",
+  "source": "test.guardduty",
+  "account": "123456789012",
+  "time": "2025-07-08T18:36:04Z",
+  "region": "us-east-1",
+  "resources": [],
+  "detail": {
+    "type": "Persistence:Runtime/SuspiciousCommand",
+    "severity": 3,
+    "resource": {
+      "resourceType": "Instance",
+      "instanceDetails": {
+        "instanceId": "i-0abc12345def67890"
+      }
+    }
+  }
+}
