@@ -22,7 +22,5 @@ This project sets up a real-time security alerting system using AWS services to 
 - CloudWatch (for monitoring)
 - Email alerts
 
----
 
-## 📦 Architecture Diagram
 
